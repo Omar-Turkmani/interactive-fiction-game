@@ -1,25 +1,24 @@
 # interactive-fiction-game
-Interactive fiction game is a text adventure game where you are controling a character and influencing his environment
-, these types of games first written in the late '70s and were sort of a choose-your-own-adventure book, but for geeks.
+Interactive fiction game is a text adventure game where you are controlling a character and influencing his environment,
+these types of games were first written in the late '70s and were sort of a choose-your-own-adventure book, but for geeks.
 
 More details: https://en.wikipedia.org/wiki/Interactive_fiction
 
-**This project is created for applying Objected-Orinted Parogramming, Clean Code and Design Patterns concepts**
+**This project is created for applying Objected-Oriented Programming, Clean Code, and Design Patterns concepts**
 
 ## About
 
- In this game, you will navigate a map (turning east, west, north, south) and move through doors (forward, backward) if they are unlocked and opened until you reach the winning room during specific time.
+ In this game, you will navigate a map (turning east, west, north, south) and move through doors (forward, backward) if they are unlocked and opened until you reach the winning room during a specific time.
+ 
+The map contains more than one room, each room has four walls and each wall may have one element (Mirror, Cabinet, Plate, Door, or Master) or simply be a plain wall   
+ 
+As you navigate through the map, you can look for what your facing wall contains, but be careful you can't look if the room's lighting is off, and not all rooms have lights! so keep the flashlight in your bag
 
- The map contains more than one room, each room has four walls and each wall may has one element (Mirror, Cabinet, Plate, Door or Master) or simply be a plain wall   
- 
- As you navigate through the map, you can look for what your facing wall contains, but be carefull you can't look if the room's lighting is off, and not all rooms has lights! so  keep the flashlight in your bag 
- 
- There are many items that can be acquired as (door's/cabinet's keys, flashlight and golds), you can acquire them by checking cabinets, plates, mirrors or 
- buying them from the master
- 
- To unlock locked elements (Doors, Cabinets) the player should has the required key and use it
+Many items can be acquired as (door's/cabinet's keys, flashlight, and golds), you can acquire them by checking cabinets, plates, mirrors or buying them from master
 
-Wish you a happy escaping form this map :)
+To unlock locked elements (Doors, Cabinets) the player should have the required key and use it
+
+Wish you a happy escaping from this map :)
 
 ### The map :
 <div>
